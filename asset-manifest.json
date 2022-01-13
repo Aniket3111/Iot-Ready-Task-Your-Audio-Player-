@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Iot-Ready-Task-Your-Audio-Player-/static/css/main.d340c8e2.css",
+    "main.js": "/Iot-Ready-Task-Your-Audio-Player-/static/js/main.b5143ceb.js",
+    "static/js/787.eab5dd51.chunk.js": "/Iot-Ready-Task-Your-Audio-Player-/static/js/787.eab5dd51.chunk.js",
+    "static/media/m.png": "/Iot-Ready-Task-Your-Audio-Player-/static/media/m.3e012e97fa99d02456a4.png",
+    "index.html": "/Iot-Ready-Task-Your-Audio-Player-/index.html",
+    "main.d340c8e2.css.map": "/Iot-Ready-Task-Your-Audio-Player-/static/css/main.d340c8e2.css.map",
+    "main.b5143ceb.js.map": "/Iot-Ready-Task-Your-Audio-Player-/static/js/main.b5143ceb.js.map",
+    "787.eab5dd51.chunk.js.map": "/Iot-Ready-Task-Your-Audio-Player-/static/js/787.eab5dd51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d340c8e2.css",
+    "static/js/main.b5143ceb.js"
+  ]
+}
